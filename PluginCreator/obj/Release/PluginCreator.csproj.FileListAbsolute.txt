@@ -1,0 +1,17 @@
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\bin\Release\PluginCreator.exe.config
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\bin\Release\PluginCreator.exe
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\bin\Release\PluginCreator.pdb
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\bin\Release\Orcus.Plugins.dll
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\bin\Release\Orcus.Shared.dll
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\bin\Release\Orcus.Plugins.pdb
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\bin\Release\Orcus.Shared.pdb
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\bin\Release\de\Orcus.Plugins.resources.dll
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.csproj.AssemblyReference.cache
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.LoadPluginForm.resources
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.MainForm.resources
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.Properties.Resources.resources
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.csproj.GenerateResource.cache
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.csproj.CoreCompileInputs.cache
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.csproj.CopyComplete
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.exe
+C:\Users\zack3r\Desktop\Orcus-1.9.1-crack-crack\Tools\PluginCreator\obj\Release\PluginCreator.pdb
